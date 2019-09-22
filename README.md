@@ -2,4 +2,4 @@
 
 A new Flutter application.
 
-![screenshot] (colorfull.png)
+![Screenshot] (colorfull.png)
